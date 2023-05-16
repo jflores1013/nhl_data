@@ -56,7 +56,3 @@ If you have any questions or run into any issues, feel free to reach out. I'll b
 - Add error handling for API requests.
 - Implement data caching to improve performance for repeated runs.
 - Add command line arguments for specifying the date range.
-
-## License
-
-This project is licensed under the terms of the MIT license.
