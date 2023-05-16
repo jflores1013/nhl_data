@@ -28,7 +28,7 @@ This Python script fetches game data from the NHL API, processes it, and exports
 2. Run the Python script:
 
    ```
-   python nhl_data_extraction.py
+   python nhl_data.py
    ```
 
 3. The script will fetch the data and create a CSV file called `nhl_play_by_play_data_all_games.csv` in the same directory.
